@@ -12,9 +12,6 @@ import "../../node_modules/ace-builds/src-min-noconflict/mode-c_cpp"
 import "../../node_modules/ace-builds/src-noconflict/ext-language_tools";
 import './bootstrap.min.css'
 import "./style.css"
-import "../fontawesome-free-6.2.1-web/css/fontawesome.css"
-import "../fontawesome-free-6.2.1-web/css/brands.css" 
-import "../fontawesome-free-6.2.1-web/css/solid.css"
 import { getcode } from '../api/getcode';
 const Editor = () => {
 
