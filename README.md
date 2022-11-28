@@ -16,7 +16,13 @@ This application is used for online coding. After selecting the programming lang
 - Compilation and execution are supported. The proper result or error message will be displayed.
 
 
-##Screenshots
+### Tech Stack:
+- Node provides the backend environment for this application
+- Express middleware is used to handle requests, routes
+- React for displaying UI components
+
+
+## Screenshots
 
 
 ![screely-1669639703935](https://user-images.githubusercontent.com/77838959/204286095-3af8a8bf-8fde-4de0-aa03-e4075d259222.png)
