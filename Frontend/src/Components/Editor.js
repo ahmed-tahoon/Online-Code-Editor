@@ -36,9 +36,9 @@ const change =(lan)=>{
   {
     setMain(lan)
     if(lan=='c++')
-       setLang('c')
+       setLang('c++')
     else
-       setLang('c++')  
+       setLang('c')  
 
     setMode('c_cpp')
   
