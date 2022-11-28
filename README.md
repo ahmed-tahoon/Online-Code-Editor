@@ -31,4 +31,7 @@ This application is used for online coding. After selecting the programming lang
 ![screely-1669639760779](https://user-images.githubusercontent.com/77838959/204286255-549091ac-52f2-4f81-be9c-064bfe2d710e.png)
 ![screely-1669639744178](https://user-images.githubusercontent.com/77838959/204286288-0607222a-c130-46ac-821e-39963f829fa5.png)
 ![screely-1669639799857](https://user-images.githubusercontent.com/77838959/204286317-f25d8cfb-6ec5-4b8c-a8a9-9322437ea177.png)
+
+If the code has issue and can’t run properly, the error will be displayed.
+
 ![screely-1669639734121](https://user-images.githubusercontent.com/77838959/204286332-6deaacf1-a707-4005-bb84-ada4b4febe0e.png)
