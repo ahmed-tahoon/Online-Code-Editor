@@ -1,0 +1,40 @@
+.top {
+    height: 15%;
+}
+
+.grey {
+    background-color: #383b40;
+}
+
+.dark_blue {
+    background-color: #2a2f3c !important;
+}
+
+.bottom {
+    height: 85%;
+}
+
+body {
+    background-color: #1f2023;
+}
+
+i {
+    cursor: pointer;
+}
+
+#lang {
+    display: flex;
+    flex-direction: column;
+}
+
+#min {
+    display: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.tc{
+    color:rgb(216, 54, 54)
+}
